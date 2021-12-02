@@ -8,7 +8,6 @@ fun main() {
         .map(List<Int>::sum)
         .sumIncreases()
 
-
     val dayOne = readInput("Day01")
     val testInput = readInput("Day01_test")
 
